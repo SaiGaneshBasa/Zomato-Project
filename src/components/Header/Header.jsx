@@ -34,7 +34,7 @@ const Header = () => {
         </div>
       )}
       <div className="headerContent">
-        <img src={Logo} alt="logo" />
+        <h1>Sai Ganesh Basa</h1>
         <h3>Discover the best food & drinks in Patna</h3>
         <div className="input">
           <select name="" id="">
