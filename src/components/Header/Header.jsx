@@ -43,8 +43,8 @@ const Header = () => {
             <option value="Delhi">Delhi</option>
             <option value="Mumbai">Mumbai</option>
             <option value="Kolkata">Kolkata</option>
-            <option value="Hyderabad">Kolkata</option>
-            <option value="Bangalore">Kolkata</option>
+            <option value="Hyderabad">Hyderabad</option>
+            <option value="Bangalore">Mumbai</option>
           </select>
           |
           <input
